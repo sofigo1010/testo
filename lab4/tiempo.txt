@@ -1,0 +1,5 @@
+Actualmente nublado con 50% chance de lluvia;17°C
+Soleado con 0% chance de lluvia; 30°C
+Llovisnando, posiblemente se despeje alrededor de las 12 PM;16°C
+Lloviendo, es posible que llueva hasta las 5PM;15°C
+Nevando, 5% chance de tormenta de nieve;0°C
